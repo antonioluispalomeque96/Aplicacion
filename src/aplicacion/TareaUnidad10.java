@@ -39,6 +39,7 @@ public class TareaUnidad10 {
         System.out.println("5.- Dar de baja un departamento");
         System.out.println("6.- Dar de alta un departamento");
         System.out.println("7.- Mostrar datos de las personas");
+        System.out.println("Hola estoy modificando el proyecto.");
 
     }
 
